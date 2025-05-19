@@ -1,8 +1,10 @@
 # Oh, Hi!
 
-📍 **I'm from Brazil, ES** 🌎
+🌎 **I'm from Brazil, ES** 📍
 
 🎂 **My birthday: 01/02** 🎉
+
+💾 **2006**
 
 ### 📌 My main personal issues in creating programs
 - **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
@@ -26,7 +28,7 @@
 
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dracula&hide_border=true&layout=donut&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dracula&hide_border=true&layout=donut&langs_count=6)
 
 # 
 </details>
