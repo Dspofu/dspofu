@@ -43,3 +43,4 @@
 **Favorite languages:** `C++` and `JavaScript/TypeScript` (Maybe `Python`)
 
 ![Dspofu stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dracula&show_icons=true&hide_border=true)
+![Dspofu summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dspofu&theme=dracula)
