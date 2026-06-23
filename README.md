@@ -6,7 +6,7 @@
 
 💾 **Since 2006**
 
-📺 **My hobbies include watching anime, testing LLMs, and playing games <img src="https://www.counter-strike.net/favicon.ico" alt="Counter-Strike 2" width="18px">](https://steamcommunity.com/profiles/76561199153857113)**
+📺 **My hobbies include watching anime, testing LLMs, and [playing games <img src="https://www.counter-strike.net/favicon.ico" alt="Counter-Strike 2" width="18px">](https://steamcommunity.com/profiles/76561199153857113)**
 
 ---
 
