@@ -65,7 +65,7 @@
         <li><strong>MOBO:</strong> Machinist X99</li>
         <li><strong>CPU:</strong> Intel Xeon E5 2697A v4</li>
         <li><strong>RAM:</strong> 64GB DDR4 ECC 2133Mt/s (4x16GB)</li>
-        <li><strong>GPU:</strong> RTX 5050</li>
+        <li><strong>GPU:</strong> RTX 5070Ti + 5060Ti (2x16GB)</li>
         <li><strong>PSU:</strong> 700W 80 Plus 🟤</li>
       </ul>
       <h4>🔌 Micro-controllers</h4>
