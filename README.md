@@ -51,6 +51,30 @@
   <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dracula&hide_border=true&layout=donut&langs_count=7)
+
+  ### 📊 Programming Language Proficiency
+
+  ```mermaid
+  ---
+  config:
+    xyChart:
+      showDataLabel: true
+      showDataLabelOutsideBar: true
+  ---
+  xychart
+    title "Programming Language Proficiency"
+    x-axis ["JS/TS", "C/C++", "Python", "Java", "Dart/Flutter", "Rust"]
+    y-axis "Proficiency" 0 --> 10
+    bar [8, 5.8, 5, 5.1, 6, 2]
+  ```
+
+  | Score | Proficiency |
+  | :---: | :--- |
+  | `0–3` | Foundational |
+  | `4–5` | Working |
+  | `6–7` | Advanced |
+  | `8–10` | Proficient |
+
 </details>
 
 ---
@@ -92,4 +116,4 @@
 
 ### 📊 GitHub Stats
 
-![Dspofu stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dracula&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dracula&show_icons=true&hide_border=true)
